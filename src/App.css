@@ -1,0 +1,21 @@
+@media (max-width: 767.98px) { 
+  .custom-card-length {
+    height: 450px; 
+    
+  }
+
+  .custom-col{
+      margin-bottom: 10px;
+  }
+}
+
+
+.btn-hover-effect:hover {
+  color: #000000  !important; 
+  background-color: #ffc107; 
+  font-weight: bolder;
+}
+
+.shutter {
+  overflow: hidden;
+}
